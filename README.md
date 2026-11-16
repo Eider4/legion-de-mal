@@ -10,6 +10,8 @@
 
 # 🦹‍♂️ La Legión del Mal desde local v2
 
+### Es un ficha de adfso aprendiendo git hub
+
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
