@@ -8,7 +8,9 @@
 ![Último commit](https://img.shields.io/github/last-commit/Eider4/legion-de-mal)
 ![Licencia](https://img.shields.io/github/license/Eider4/legion-de-mal)
 
-# 🦹‍♂️ La Legión del Mal desde local
+# 🦹‍♂️ La Legión del Mal desde local v2
+
+### Es un ficha de adfso aprendiendo git hub
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
